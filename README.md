@@ -1,2 +1,2 @@
 # WorkingCodes
-All working codes
+collection of All working codes
