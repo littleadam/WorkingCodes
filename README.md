@@ -2,4 +2,3 @@ This repo contains All working codes from Adam's funlab that are tested frequent
 
 The codes are open for all and one can use the code directly without any testing as the codes are fully tested
 
-The codes are written in c python groovy Java or on kodular platform and uses cloud platform
