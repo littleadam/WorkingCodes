@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 # Initialize the Firefox WebDriver
 driver = webdriver.Firefox()
 
-# Navigate to the Google website
+# Navigate to the Google website ie Google.com
 driver.get("https://www.google.com")
 
 # Find the search input field by its name attribute ("q" for Google search)
